@@ -1,0 +1,3 @@
+Working sample: https://jsfiddle.net/wahdo7/L2f9tw3p/295/
+
+I think writing code that is easily scalable is important, even for small projects that don't necessarily have any big future plans. Personally, the thought of having to refactor hundreds of lines of code just to add a small new feature is extremely discouraging. This code sample is a rewritten version of the dungeon generation system from a previous project of mine called Dungeon Crawler, which was a fully playable game. The sample only generates a dungeon and draws it, but the underlying data structures that it generates could also be used for path generation and player movement, should I ever decide to expand the sample into a playable game like the original.
